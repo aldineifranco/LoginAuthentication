@@ -4,7 +4,7 @@ import { Login } from "./Login/Login"
 function App() {
   return (
     <>
-      <Dashboard />
+      <Login />
     </>
   )
 }
